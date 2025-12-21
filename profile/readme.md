@@ -16,17 +16,13 @@ And also committed to try, learn and adapt new changes of the whole software env
 
 ## Our reach
 
-We were once trying to enable extended support on few Samsung Devices, and now we are also slowly targetting Buisness-centric approaches, like creating a system for a small buisness in need.
-
-## Financial Obligations
-
-The money that our organization earns will be funneled through the needs of our team developers directly, from donations to contracts.
+We were once trying to enable extended support on few Samsung Devices. And we did!
 
 ## Contacts
 
 The organization's email can be reached out: [mizproject@proton.me](mailto:mizproject@proton.me)
 
-<!-- In telegram: https://t.me/proj_mizumo_discuss -->
+In telegram: [https://t.me/proj_mizumo_discuss](https://t.me/mizdiscuss)
 
 
 ## Partners
@@ -35,12 +31,12 @@ We thank these organizations for their support from the start.
 
 This organization wouldn't be founded without their support at the first place.
 
-Exynos 850: https://t.me/a12schat
+Exynos 850: [Telegram Link](https://t.me/ex850chat)
 - Head: [@physwizz](https://github.com/physwizz)
 - Inspired some of his works: (Kernel, Community, and TWRP port)
 
-Rissu (Primarily their KSU): @rsuntk
+Rissu (Primarily their Rissu-KSU): [@rsuntk](https://github.com/rsuntk)
 
 Samsung & Android Tweaks: https://t.me/Samsung_Tweaks
 - Head: Ravindu Deshan
-- Inspired some of works: LPOs Eternity Kernel
+- Inspired some of works: Droidspace, Ubuntu-chroot
